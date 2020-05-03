@@ -24,7 +24,7 @@
 #define VRES 480 //Vertical Resolution
 #define MSEC 1000000 
 #define NSEC_PER_SEC (1000000000)
-#define thread_cnt 4 //Total no of threads to be Implemented
+#define thread_cnt 3 //Total no of threads to be Implemented
 
 #define TRUE (1)
 #define FALSE (0)
